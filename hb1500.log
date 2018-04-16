@@ -1,3 +1,26 @@
+lw2427
+*  6b4e941 Merge branch 'b2'
+|\  
+| *   9321686 Merge branch 'master' into b2
+| |\  
+| * | 8d90a2c 1st on branch b2
+* | |   713839d Merge branch 'b3'
+|\ \ \  
+| | |/  
+| |/|   
+| * |   29d2d34 1st commit on b3
+| |\ \  
+| | |/  
+| |/|   
+| * | bcf66e5 Merge branch 'b1'
+* | | 644db0c 3rd commit (on b1)
+| |/  
+|/|   
+* | 610f239 2nd commit (2nd on master).
+|/  
+* 220b9ae 1st commit (1st on master)
+
+
 hb1500
 *   601cebf 9th commit (4th on master).
 |\
@@ -18,3 +41,25 @@ hb1500
 * | beb511b 4th commit (2nd on master).
 |/
 * 35ef120 1st commit (1st on master).
+
+ypl238
+*   cf23f01 done
+|\  
+| *   959a6c7 b1 to b3
+| |\  
+| * | f35cb53 b3
+* | |   b19905d (b1 to m2) to m3
+|\ \ \  
+| | |/  
+| |/|   
+| * |   1b94c14 b1 to m2
+| |\ \  
+| | |/  
+| |/|   
+| * | f507bc7 b1
+* | | c7bcc50 m3
+| |/  
+|/|   
+* | 57e2eb3 m2
+|/  
+* 0b649e2 m1
